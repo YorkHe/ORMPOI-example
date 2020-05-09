@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$PROJECT_DIR$/libs/main-4.1.3-SNAPSHOT.jar" />
+        </processorPath>
+        <module name="ORMPOI-example.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
